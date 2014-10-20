@@ -1,0 +1,4 @@
+1. what happens when you initialize a repostiory? why do you need to do it?
+
+The repository becomes "git-safe". This is required to be logged and branced.
+
