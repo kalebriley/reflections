@@ -2,3 +2,6 @@
 
 The repository becomes "git-safe". This is required to be logged and branced.
 
+2.How can you use the staging area to make sure you have one commit per logical change?
+
+git diff --stage shows the differences between the staging area and the last commit.
