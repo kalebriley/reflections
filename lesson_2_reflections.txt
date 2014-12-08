@@ -14,4 +14,6 @@ Branches would be helpful in creating and maintaining different versions of a pr
 
 Its not really much of a help. Though I did learn the git checkout -b new_branch_name command.
 
-this is a test line
+5. What is the result of merging two branches together? why do we represent it in the diagram the way we do?
+
+Merge comnbines the two branches and automatically updates the the merged files appropriately. The diagram is presented in the format to drive homw the idea of parent commits.
