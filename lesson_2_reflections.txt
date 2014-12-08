@@ -5,3 +5,13 @@ The repository becomes "git-safe". This is required to be logged and branced.
 2.How can you use the staging area to make sure you have one commit per logical change?
 
 git diff --stage shows the differences between the staging area and the last commit.
+
+3. What are some situations where branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful in creating and maintaining different versions of a program.
+
+4. How do the diagrams help you visualize the branch structue?
+
+Its not really much of a help. Though I did learn the git checkout -b new_branch_name command.
+
+this is a test line
